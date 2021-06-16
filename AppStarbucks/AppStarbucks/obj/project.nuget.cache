@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "zqNP3e2dxiFZmtJ26hH5aOlrgXdAqiaDN4+5siwVHEuzLe/zPy/Py8ChCGkSA5dkQcyS8pvnKQ0OJnka9QhS6w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Diana Bojorquez\\OneDrive\\Escritorio\\F\\AppStarbucks\\AppStarbucks\\AppStarbucks.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Diana Bojorquez\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Diana Bojorquez\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Diana Bojorquez\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Diana Bojorquez\\.nuget\\packages\\xam.plugin.media\\5.0.1\\xam.plugin.media.5.0.1.nupkg.sha512",
+    "C:\\Users\\Diana Bojorquez\\.nuget\\packages\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Users\\Diana Bojorquez\\.nuget\\packages\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512",
+    "C:\\Users\\Diana Bojorquez\\.nuget\\packages\\xamarin.forms.maps\\5.0.0.2012\\xamarin.forms.maps.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}

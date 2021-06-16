@@ -1,0 +1,56 @@
+C:\Users\Diana Bojorquez\OneDrive\Documentos\UNI\4to Semestre\Final-DesarrolloMovil\AppWebApi\AppStarbucks\AppStarbucks\bin\Debug\netstandard2.0\AppStarbucks.deps.json
+C:\Users\Diana Bojorquez\OneDrive\Documentos\UNI\4to Semestre\Final-DesarrolloMovil\AppWebApi\AppStarbucks\AppStarbucks\bin\Debug\netstandard2.0\AppStarbucks.dll
+C:\Users\Diana Bojorquez\OneDrive\Documentos\UNI\4to Semestre\Final-DesarrolloMovil\AppWebApi\AppStarbucks\AppStarbucks\bin\Debug\netstandard2.0\ref\AppStarbucks.dll
+C:\Users\Diana Bojorquez\OneDrive\Documentos\UNI\4to Semestre\Final-DesarrolloMovil\AppWebApi\AppStarbucks\AppStarbucks\bin\Debug\netstandard2.0\AppStarbucks.pdb
+C:\Users\Diana Bojorquez\OneDrive\Documentos\UNI\4to Semestre\Final-DesarrolloMovil\AppWebApi\AppStarbucks\AppStarbucks\obj\Debug\netstandard2.0\AppStarbucks.csproj.AssemblyReference.cache
+C:\Users\Diana Bojorquez\OneDrive\Documentos\UNI\4to Semestre\Final-DesarrolloMovil\AppWebApi\AppStarbucks\AppStarbucks\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Diana Bojorquez\OneDrive\Documentos\UNI\4to Semestre\Final-DesarrolloMovil\AppWebApi\AppStarbucks\AppStarbucks\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+C:\Users\Diana Bojorquez\OneDrive\Documentos\UNI\4to Semestre\Final-DesarrolloMovil\AppWebApi\AppStarbucks\AppStarbucks\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+C:\Users\Diana Bojorquez\OneDrive\Documentos\UNI\4to Semestre\Final-DesarrolloMovil\AppWebApi\AppStarbucks\AppStarbucks\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
+C:\Users\Diana Bojorquez\OneDrive\Documentos\UNI\4to Semestre\Final-DesarrolloMovil\AppWebApi\AppStarbucks\AppStarbucks\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
+C:\Users\Diana Bojorquez\OneDrive\Documentos\UNI\4to Semestre\Final-DesarrolloMovil\AppWebApi\AppStarbucks\AppStarbucks\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
+C:\Users\Diana Bojorquez\OneDrive\Documentos\UNI\4to Semestre\Final-DesarrolloMovil\AppWebApi\AppStarbucks\AppStarbucks\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
+C:\Users\Diana Bojorquez\OneDrive\Documentos\UNI\4to Semestre\Final-DesarrolloMovil\AppWebApi\AppStarbucks\AppStarbucks\obj\Debug\netstandard2.0\AppStarbucks.AssemblyInfoInputs.cache
+C:\Users\Diana Bojorquez\OneDrive\Documentos\UNI\4to Semestre\Final-DesarrolloMovil\AppWebApi\AppStarbucks\AppStarbucks\obj\Debug\netstandard2.0\AppStarbucks.AssemblyInfo.cs
+C:\Users\Diana Bojorquez\OneDrive\Documentos\UNI\4to Semestre\Final-DesarrolloMovil\AppWebApi\AppStarbucks\AppStarbucks\obj\Debug\netstandard2.0\AppStarbucks.csproj.CoreCompileInputs.cache
+C:\Users\Diana Bojorquez\OneDrive\Documentos\UNI\4to Semestre\Final-DesarrolloMovil\AppWebApi\AppStarbucks\AppStarbucks\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Diana Bojorquez\OneDrive\Documentos\UNI\4to Semestre\Final-DesarrolloMovil\AppWebApi\AppStarbucks\AppStarbucks\obj\Debug\netstandard2.0\AppStarbucks.dll
+C:\Users\Diana Bojorquez\OneDrive\Documentos\UNI\4to Semestre\Final-DesarrolloMovil\AppWebApi\AppStarbucks\AppStarbucks\obj\Debug\netstandard2.0\ref\AppStarbucks.dll
+C:\Users\Diana Bojorquez\OneDrive\Documentos\UNI\4to Semestre\Final-DesarrolloMovil\AppWebApi\AppStarbucks\AppStarbucks\obj\Debug\netstandard2.0\AppStarbucks.pdb
+C:\Users\Diana Bojorquez\OneDrive\Documentos\UNI\Final-DesarrolloMovil\AppStarbucks\AppStarbucks\bin\Debug\netstandard2.0\AppStarbucks.deps.json
+C:\Users\Diana Bojorquez\OneDrive\Documentos\UNI\Final-DesarrolloMovil\AppStarbucks\AppStarbucks\bin\Debug\netstandard2.0\AppStarbucks.dll
+C:\Users\Diana Bojorquez\OneDrive\Documentos\UNI\Final-DesarrolloMovil\AppStarbucks\AppStarbucks\bin\Debug\netstandard2.0\ref\AppStarbucks.dll
+C:\Users\Diana Bojorquez\OneDrive\Documentos\UNI\Final-DesarrolloMovil\AppStarbucks\AppStarbucks\bin\Debug\netstandard2.0\AppStarbucks.pdb
+C:\Users\Diana Bojorquez\OneDrive\Documentos\UNI\Final-DesarrolloMovil\AppStarbucks\AppStarbucks\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Diana Bojorquez\OneDrive\Documentos\UNI\Final-DesarrolloMovil\AppStarbucks\AppStarbucks\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+C:\Users\Diana Bojorquez\OneDrive\Documentos\UNI\Final-DesarrolloMovil\AppStarbucks\AppStarbucks\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+C:\Users\Diana Bojorquez\OneDrive\Documentos\UNI\Final-DesarrolloMovil\AppStarbucks\AppStarbucks\obj\Debug\netstandard2.0\Views\BranchOfficePage.xaml.g.cs
+C:\Users\Diana Bojorquez\OneDrive\Documentos\UNI\Final-DesarrolloMovil\AppStarbucks\AppStarbucks\obj\Debug\netstandard2.0\Views\DrinksPage.xaml.g.cs
+C:\Users\Diana Bojorquez\OneDrive\Documentos\UNI\Final-DesarrolloMovil\AppStarbucks\AppStarbucks\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
+C:\Users\Diana Bojorquez\OneDrive\Documentos\UNI\Final-DesarrolloMovil\AppStarbucks\AppStarbucks\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
+C:\Users\Diana Bojorquez\OneDrive\Documentos\UNI\Final-DesarrolloMovil\AppStarbucks\AppStarbucks\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
+C:\Users\Diana Bojorquez\OneDrive\Documentos\UNI\Final-DesarrolloMovil\AppStarbucks\AppStarbucks\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
+C:\Users\Diana Bojorquez\OneDrive\Documentos\UNI\Final-DesarrolloMovil\AppStarbucks\AppStarbucks\obj\Debug\netstandard2.0\AppStarbucks.AssemblyInfoInputs.cache
+C:\Users\Diana Bojorquez\OneDrive\Documentos\UNI\Final-DesarrolloMovil\AppStarbucks\AppStarbucks\obj\Debug\netstandard2.0\AppStarbucks.AssemblyInfo.cs
+C:\Users\Diana Bojorquez\OneDrive\Documentos\UNI\Final-DesarrolloMovil\AppStarbucks\AppStarbucks\obj\Debug\netstandard2.0\AppStarbucks.csproj.CoreCompileInputs.cache
+C:\Users\Diana Bojorquez\OneDrive\Documentos\UNI\Final-DesarrolloMovil\AppStarbucks\AppStarbucks\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Diana Bojorquez\OneDrive\Documentos\UNI\Final-DesarrolloMovil\AppStarbucks\AppStarbucks\obj\Debug\netstandard2.0\AppStarbucks.dll
+C:\Users\Diana Bojorquez\OneDrive\Documentos\UNI\Final-DesarrolloMovil\AppStarbucks\AppStarbucks\obj\Debug\netstandard2.0\ref\AppStarbucks.dll
+C:\Users\Diana Bojorquez\OneDrive\Documentos\UNI\Final-DesarrolloMovil\AppStarbucks\AppStarbucks\obj\Debug\netstandard2.0\AppStarbucks.pdb
+C:\Users\Diana Bojorquez\OneDrive\Escritorio\F\AppStarbucks\AppStarbucks\bin\Debug\netstandard2.0\AppStarbucks.deps.json
+C:\Users\Diana Bojorquez\OneDrive\Escritorio\F\AppStarbucks\AppStarbucks\bin\Debug\netstandard2.0\AppStarbucks.dll
+C:\Users\Diana Bojorquez\OneDrive\Escritorio\F\AppStarbucks\AppStarbucks\bin\Debug\netstandard2.0\ref\AppStarbucks.dll
+C:\Users\Diana Bojorquez\OneDrive\Escritorio\F\AppStarbucks\AppStarbucks\bin\Debug\netstandard2.0\AppStarbucks.pdb
+C:\Users\Diana Bojorquez\OneDrive\Escritorio\F\AppStarbucks\AppStarbucks\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Diana Bojorquez\OneDrive\Escritorio\F\AppStarbucks\AppStarbucks\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+C:\Users\Diana Bojorquez\OneDrive\Escritorio\F\AppStarbucks\AppStarbucks\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+C:\Users\Diana Bojorquez\OneDrive\Escritorio\F\AppStarbucks\AppStarbucks\obj\Debug\netstandard2.0\Views\BranchOfficePage.xaml.g.cs
+C:\Users\Diana Bojorquez\OneDrive\Escritorio\F\AppStarbucks\AppStarbucks\obj\Debug\netstandard2.0\Views\DrinksPage.xaml.g.cs
+C:\Users\Diana Bojorquez\OneDrive\Escritorio\F\AppStarbucks\AppStarbucks\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
+C:\Users\Diana Bojorquez\OneDrive\Escritorio\F\AppStarbucks\AppStarbucks\obj\Debug\netstandard2.0\AppStarbucks.AssemblyInfoInputs.cache
+C:\Users\Diana Bojorquez\OneDrive\Escritorio\F\AppStarbucks\AppStarbucks\obj\Debug\netstandard2.0\AppStarbucks.AssemblyInfo.cs
+C:\Users\Diana Bojorquez\OneDrive\Escritorio\F\AppStarbucks\AppStarbucks\obj\Debug\netstandard2.0\AppStarbucks.csproj.CoreCompileInputs.cache
+C:\Users\Diana Bojorquez\OneDrive\Escritorio\F\AppStarbucks\AppStarbucks\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Diana Bojorquez\OneDrive\Escritorio\F\AppStarbucks\AppStarbucks\obj\Debug\netstandard2.0\AppStarbucks.dll
+C:\Users\Diana Bojorquez\OneDrive\Escritorio\F\AppStarbucks\AppStarbucks\obj\Debug\netstandard2.0\ref\AppStarbucks.dll
+C:\Users\Diana Bojorquez\OneDrive\Escritorio\F\AppStarbucks\AppStarbucks\obj\Debug\netstandard2.0\AppStarbucks.pdb

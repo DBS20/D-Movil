@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:converters="clr-namespace:AppStarbucks.Converter"
+             x:Class="AppStarbucks.Views.BranchOfficePage">
+
+  
+    <ContentPage.Content>
+        <RefreshView
+                IsRefreshing="{Binding IsBusy}"
+                Command="{Binding LoadBOfficeCommand}">
+
+            <CollectionView
+            
+                    Margin="20"
+                    ItemsSource="{Binding BranchOffice}">
+
+                <CollectionView.ItemTemplate>
+                    <DataTemplate>
+                        <Grid>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="150"/>
+                                <ColumnDefinition Width="150"/>
+                            </Grid.ColumnDefinitions>
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="Auto" />
+                                <RowDefinition Height="Auto" />
+                                <RowDefinition Height="Auto" />
+                                <RowDefinition Height="Auto" />
+                                <RowDefinition Height="Auto" />
+                            </Grid.RowDefinitions>
+
+                            <Image
+                                Grid.RowSpan="5"
+                                HeightRequest="150"
+                                Source="{Binding Image}"
+                                HorizontalOptions="Center"/>
+
+
+                            <Label
+                                Grid.Column="2"
+                                Grid.Row="2"
+                                Text="{Binding Place}"
+                                VerticalOptions="StartAndExpand"
+                                HorizontalTextAlignment="Center"
+                                FontSize="15"/>
+
+                            <Label
+                                Grid.Column="2"
+                                Grid.Row="3"
+                                Text="{Binding Address}"
+                                VerticalOptions="StartAndExpand"
+                                HorizontalTextAlignment="Center"
+                                FontSize="15"/>
+
+                            <Label
+                                Grid.Column="2"
+                                Grid.Row="4"
+                                Text="{Binding Latitude}"
+                                VerticalOptions="StartAndExpand"
+                                HorizontalTextAlignment="Center"
+                                FontSize="15"/>
+
+                            <Label
+                                Grid.Column="2"
+                                Grid.Row="5"
+                                Text="{Binding Longitude}"
+                                VerticalOptions="StartAndExpand"
+                                HorizontalTextAlignment="Center"
+                                FontSize="15"/>
+
+                        </Grid>
+
+                    </DataTemplate>
+                </CollectionView.ItemTemplate>
+
+            </CollectionView>
+
+
+        </RefreshView>
+    </ContentPage.Content>
+</ContentPage>
